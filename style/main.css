@@ -1,0 +1,15 @@
+h1 {
+    text-align: center;
+}
+
+body {
+    background-color: rgb(230, 217, 217);
+}
+
+span {
+    background-color: rgb(113, 186, 235);
+}
+
+.error {
+    background-color: rgb(247, 75, 75);
+}
